@@ -1,0 +1,10 @@
+---
+type: Clause
+section: "11.1"
+part-of: [[MSA-2026-014]]
+---
+# SLA response times
+## Plain English
+We acknowledge any support request within one business day. If a request stops an installation, we acknowledge it within four business hours.
+## Exact wording
+"Supplier shall acknowledge each Support Request within one (1) Business Day. Where a Support Request prevents commissioning of Products at a Site, Supplier shall acknowledge it within four (4) Business Hours."
