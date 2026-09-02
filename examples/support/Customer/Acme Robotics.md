@@ -3,6 +3,7 @@ type: Customer
 crm_id: CRM-10422
 owner: [[Dana Okafor]]
 plan: Enterprise
+same-as: [[Acme Robotics Inc]]
 ---
 # Acme Robotics
 ## Who they are

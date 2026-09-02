@@ -11,4 +11,4 @@ Regional grocery distributor with eleven cold-storage sites in the Mid-Atlantic.
 ## What they buy from us
 Series 400 cold-rated fixtures. Small, steady reorders rather than one large project.
 ## Watch out for
-Their agreement predates our CRM, so the Contracts side has no CRM id for them. The `same-as` link above was set by hand after Legal confirmed the match.
+Their agreement predates our CRM, so the Contracts side has no CRM id to match on. The `same-as` link above was set by hand after Legal confirmed the match.
